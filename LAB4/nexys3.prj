@@ -1,0 +1,6 @@
+verilog work "seven_segment.v"
+verilog work "random.v"
+verilog work "game.v"
+verilog work "debouncer.v"
+verilog work "clock.v"
+verilog work "nexys3.v"
